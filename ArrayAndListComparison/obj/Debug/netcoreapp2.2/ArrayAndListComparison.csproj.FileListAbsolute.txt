@@ -1,0 +1,7 @@
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\bin\Debug\netcoreapp2.2\ArrayAndListComparison.deps.json
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\bin\Debug\netcoreapp2.2\ArrayAndListComparison.runtimeconfig.json
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\bin\Debug\netcoreapp2.2\ArrayAndListComparison.runtimeconfig.dev.json
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\bin\Debug\netcoreapp2.2\ArrayAndListComparison.dll
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\obj\Debug\netcoreapp2.2\ArrayAndListComparison.csproj.CoreCompileInputs.cache
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\obj\Debug\netcoreapp2.2\ArrayAndListComparison.AssemblyInfoInputs.cache
+C:\Users\ysant\source\repos\ArrayAndListComparison\ArrayAndListComparison\obj\Debug\netcoreapp2.2\ArrayAndListComparison.AssemblyInfo.cs
